@@ -1,0 +1,132 @@
+.body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color: #37393E;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-line{
+    padding-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.headerlogo{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+.conteiner{
+    margin: 0px 216px;
+}
+
+.nav-item{
+    color: orange;
+    font-size: 30px;
+    font-weight: 20px;
+    margin-right: 20px;
+}
+
+.jeltaya_korobka{
+    color: #fff;
+    background-color: #FF7400;
+    border-radius: 6px;
+    padding: 3px;
+}
+
+.nav-popi{
+    color: #fff;
+}
+
+.nav-header{
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-down{
+    display: flex;
+    position: relative
+}
+
+.header-tittle{
+    position: absolute;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 120px;
+    margin-left: 216px;
+    margin-right: 600px;       
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-subtittle{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-down-down{
+    color:rgb(255, 255, 255);
+    font-size: 10px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 495px;
+    }
+
+    
+    .mobila{
+        align-items: center;
+        flex-direction: column;
+        /* justify-content: center; */
+        display: flex;
+        background-color:#FF7400;
+        position: relative ;
+        height: 319px;
+        width: 240px;
+        border-radius: 20px;
+        left: 900px;
+        top: 82px;
+    }
+    .mobila > .img {
+        background: url('img/axolotl-11.jpg');
+        border-radius: 4px;
+        display: flex;
+        width: 223px;
+        height: 273px;
+        background-size: cover;
+        margin: 9px 0;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .rightpipa{
+        color: #FF7400;
+        font-size: 30px;
+}
+    .axolitol{
+        display: flex;
+        position: absolute;
+        top: 125px;
+        left: 830px;
+        width: 50%;
+        border-radius: 100px;
+    }
+
+.krug{
+    width:20px;
+    height:20px;
+    background-color: #37393E;
+    border-radius: 100%;   
+    margin-bottom: 9px;
+}
